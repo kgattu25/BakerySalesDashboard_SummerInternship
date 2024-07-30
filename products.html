@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bearly Products</title>
+
+    <!-- font styles -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap"
+        rel="stylesheet">
+
+    <!-- css styles -->
+    <link rel="stylesheet" href="products_styles.css">
+
+    <!-- icon styles -->
+    <link rel="stylesheet"
+        href="https://maxst.icons8.com/vue-static/landings/line-awesome/line-awesome/1.3.0/css/line-awesome.min.css">
+
+    <!-- Bootstrap cdn -->
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+
+    <!--Google Charts API -->
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+
+</head>
+
+<body>
+
+    <nav class="navbar navbar-expand-lg navbar-custom py-3">
+        <a class="navbar-brand" href="home.html">
+            <img src="images/logo.png" alt="Bearly Baked">
+        </a>
+        <div class="nav">
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item">
+                    <a class="nav-link" href="home.html">
+                        Home
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link active" href="products.html">
+                        Products
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="dashboard.html">
+                        Dashboard
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+
+    <div class="container my-5">
+        <section class="photos">
+            <menu>
+                <li style="background: url('images/croissant.png') center center/cover;">
+                    <div class="details">
+                        <h3>Croissants</h3>
+                        <p>Flaky, buttery croissants that melt in your mouth.</p>
+                    </div>
+                </li>
+                <li style="background: url('images/coffee.png') center center/cover;">
+                    <div class="details">
+                        <h3>Coffee</h3>
+                        <p>Rich, aromatic coffee to complement your favorite pastries.</p>
+                    </div>
+                </li>
+                <li style="background: url('images/donut.png') center center/cover;">
+                    <div class="details">
+                        <h3>Donuts</h3>
+                        <p>Sweet, fluffy donuts with a delightful glaze.</p>
+                    </div>
+                </li>
+                <li style="background: url('images/muffin.png') center center/cover;">
+                    <div class="details">
+                        <h3>Muffins</h3>
+                        <p>Moist, flavorful muffins bursting with fresh ingredients.</p>
+                    </div>
+                </li>
+                <li style="background: url('images/pie.png') center center/cover;">
+                    <div class="details">
+                        <h3>Pies</h3>
+                        <p>Delicious pies with a perfectly flaky crust and rich filling.</p>
+                    </div>
+                </li>
+                <li style="background: url('images/pastry.png') center center/cover;">
+                    <div class="details">
+                        <h3>Pastries</h3>
+                        <p>Elegant pastries filled with sweet or savory delights.</p>
+                    </div>
+                </li>
+                <li style="background: url('images/cake.png') center center/cover;">
+                    <div class="details">
+                        <h3>Cakes</h3>
+                        <p>Decadent cakes, beautifully decorated for any occasion.</p>
+                    </div>
+                </li>
+                <li style="background: url('images/cookies.png') center center/cover;">
+                    <div class="details">
+                        <h3>Cookies</h3>
+                        <p>Freshly baked cookies, crispy on the outside, chewy on the inside.</p>
+                    </div>
+                </li>
+                <li style="background: url('images/bread.png') center center/cover;">
+                    <div class="details">
+                        <h3>Breads</h3>
+                        <p>Freshly baked bread, perfect for any meal.</p>
+                    </div>
+                </li>
+                <li style="background: url('images/sandwich.png') center center/cover;">
+                    <div class="details">
+                        <h3>Sandwiches</h3>
+                        <p>Hearty sandwiches made with fresh bread and quality ingredients.</p>
+                    </div>
+                </li>
+                <li style="background: url('images/orangejuice.png') center center/cover;">
+                    <div class="details">
+                        <h3>Juices</h3>
+                        <p>Refreshing, freshly squeezed fruit juices</p>
+                    </div>
+                </li>
+                <li style="background: url('images/tea.png') center center/cover;">
+                    <div class="details">
+                        <h3>Teas</h3>
+                        <p>Fragrant, soothing teas to warm your soul.</p>
+                    </div>
+                </li>
+                <li style="background: url('images/milk.png') center center/cover;">
+                    <div class="details">
+                        <h3>Milk</h3>
+                        <p>Creamy, fresh milk to pair with your favorite treats.</p>
+                    </div>
+                </li>
+                <li style="background: url('images/soda.png') center center/cover;">
+                    <div class="details">
+                        <h3>Sodas</h3>
+                        <p>Fizzy, refreshing sodas to quench your thirst.</p>
+                </li>
+            </menu>
+            <div class="controls">
+                <button class="prev"><i class="las la-angle-double-left"></i></button>
+                <button class="next"><i class="las la-angle-double-right"></i></button>
+            </div>
+        </section>
+    </div>
+
+
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.2/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+<script src="products_script.js"></script>
+
+</html>

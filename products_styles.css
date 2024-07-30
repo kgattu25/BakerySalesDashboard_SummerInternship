@@ -1,0 +1,359 @@
+* {
+    box-sizing: border-box;
+    background-color: #F7F7F2 !important;
+    font-family: 'Noto Sans', sans-serif;
+    list-style: none;
+}
+
+body {
+    overflow: hidden;
+}
+
+.navbar-brand {
+    margin: 0 20px;
+}
+
+.navbar-custom .navbar-nav {
+    margin: 0 30%;
+    gap: 50px;
+    text-align: center;
+}
+
+.navbar-custom .navbar-brand,
+.navbar-custom .nav-link {
+    color: #000;
+
+}
+
+.navbar-custom .nav-link:hover,
+.navbar-custom .nav-link.active {
+    border-bottom: 2px ridge #d1c5dfb1;
+    color: #000;
+    padding-bottom: 5px;
+    transition: border-bottom 1s ease-in;
+}
+
+.navbar-custom .nav-link.active {
+    border-bottom: 2px ridge #82679F;
+    color: #000;
+}
+
+.navbar-brand img {
+    width: auto;
+    height: 65px;
+    background-color: transparent;
+}
+
+nav {
+    gap: 15%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+section {
+    width: 60rem;
+    height: 30rem;
+    background: #555 !important;
+    position: absolute;
+    top: 55%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.photos li {
+    width: 7rem;
+    height: 10rem;
+    position: absolute;
+    top: 70%;
+    left: 60%;
+    transform: translate(-30%, -30%);
+    border-radius: 1.5rem;
+    font-size: 0.8rem;
+    box-shadow: 1.5rem 1.5rem 2rem rgba(0, 0, 0, 0.5);
+    transition: all 1s ease-in-out;
+}
+
+li:nth-child(1),
+li:nth-child(2) {
+    top: 0;
+    left: 0;
+    transform: translate(0);
+    width: 100%;
+    height: 100%;
+    border-radius: 0;
+}
+
+li:nth-child(1) {
+    box-shadow: none;
+}
+
+li:nth-child(3) {
+    left: 75%;
+}
+
+li:nth-child(4) {
+    left: calc(75% + 8.5rem);
+}
+
+li:nth-child(5) {
+    left: calc(75% + 17rem);
+}
+
+li:nth-child(6) {
+    left: calc(75% + 25.5rem);
+}
+
+li:nth-child(7) {
+    left: calc(75% + 34rem);
+    opacity: 0;
+}
+
+li:nth-child(8) {
+    left: calc(75% + 42.5rem);
+    opacity: 0;
+}
+
+li:nth-child(9) {
+    left: calc(75% + 51rem);
+    opacity: 0;
+}
+
+li:nth-child(10) {
+    left: calc(75% + 59.5rem);
+    opacity: 0;
+}
+
+li:nth-child(11) {
+    left: calc(75% + 68rem);
+    opacity: 0;
+}
+
+li:nth-child(12) {
+    left: calc(75% + 76.5rem);
+    opacity: 0;
+}
+
+li:nth-child(13) {
+    left: calc(75% + 85rem);
+    opacity: 0;
+}
+
+li:nth-child(14) {
+    left: calc(75% + 93.5rem);
+    opacity: 0;
+}
+
+li:nth-child(15) {
+    left: calc(75% + 102rem);
+    opacity: 0;
+}
+
+li .details {
+    position: absolute;
+    top: 3%;
+    color: #fff;
+    font-size: 0.5rem;
+    display: none;
+}
+
+li:nth-child(2) .details {
+    background-color: transparent !important;
+    display: inline-block;
+    left: 5rem;
+    animation: identifier 1s ease forwards;
+}
+
+li:nth-child(2) .details h3 {
+    background-color: transparent !important;
+    font-size: 2.5rem;
+}
+
+li:nth-child(2) .details p {
+    background-color: transparent !important;
+    width: 9rem;
+    font-size: 0.8rem;
+    color: #fff;
+    position: absolute;
+    text-shadow: 1px 1px purple;
+    font-weight: 700;
+    text-transform: lowercase;
+}
+
+@keyframes identifier {
+    from {
+        opacity: 0;
+        filter: blur(10px);
+        transform: scale(0);
+    }
+
+    to {
+        opacity: 1;
+        filter: blur(0);
+        transform: scale(1.2);
+    }
+}
+
+.controls {
+    position: absolute;
+    bottom: -5.8rem;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    gap: 1.5rem;
+    background-color: transparent !important;
+}
+
+.controls button {
+    width: 3rem;
+    aspect-ratio: 1/1;
+    border: 2px solid purple;
+    border-radius: 50%;
+    cursor: pointer;
+    font-size: 1.4rem;
+    transform: all 300ms ease;
+    z-index: 1;
+    color: #82679F;
+    background-color: transparent !important;
+}
+
+.controls button:hover {
+    font-size: 1.5rem;
+    background-color: purple !important;
+    color: #fff;
+}
+
+i {
+    background-color: transparent !important;
+}
+
+/* Responsive styles for screens 480px or less */
+@media screen and (max-width: 480px) {
+    body {
+        overflow-x: hidden;
+        overflow-y: auto;
+        margin: 0;
+    }
+
+    nav {
+        flex-direction: column;
+        gap: 10px;
+        margin-bottom: 10px;
+    }
+
+    .navbar-brand {
+        margin: 0;
+        text-align: center;
+        width: 100%;
+    }
+
+    .navbar-brand img {
+        height: 50px;
+    }
+
+    .navbar-custom .navbar-nav {
+        margin: 0;
+        gap: 20px;
+        flex-direction: row;
+        justify-content: center;
+    }
+
+    .navbar-custom .nav-link {
+        font-size: 0.87rem;
+    }
+
+    section {
+        width: 100%;
+        height: auto;
+        position: static;
+        transform: none;
+        background: transparent !important;
+        padding: 20px 0;
+    }
+
+    .photos {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 0;
+        margin: 0;
+        width: 100%;
+    }
+
+    .photos li {
+        width: 100%;
+        max-width: 100%;
+        height: 200px;
+        position: static;
+        transform: none;
+        border-radius: 10px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        transition: none;
+        opacity: 1;
+        padding: 15px;
+        box-sizing: border-box;
+        background-color: #fff;
+        list-style: none;
+        margin-bottom: 15px;
+    }
+
+    .photos li:nth-child(n) {
+        left: auto;
+        top: auto;
+    }
+
+    .photos li:nth-child(n) .details {
+        position: static;
+        display: block;
+        color: #000;
+        font-size: 1rem;
+        background-color: transparent !important;
+    }
+
+    .photos li:nth-child(n) .details h3 {
+        font-size: 1.5rem;
+        margin-bottom: 10px;
+        color: #fff;
+        background-color: transparent !important;
+    }
+
+    .photos li:nth-child(n) .details p {
+        width: max-content;
+        font-size: 0.8rem;
+        position: static;
+        color: #fff;
+        text-shadow: none;
+        text-transform: lowercase;
+        font-style: italic;
+        background-color: purple !important;
+        padding: 5px 5px;
+    }
+
+    li:nth-child(2) .details {
+        background-color: transparent !important;
+        display: inherit;
+        left: 0rem;
+        animation: none;
+    }
+
+    li:nth-child(2) .details h3 {
+        color: #fff;
+        background-color: transparent !important;
+        font-size: 1.5rem;
+    }
+
+    li:nth-child(2) .details p {
+        position: static;
+        text-shadow: none;
+        font-weight: normal;
+    }
+
+    .controls,
+    i {
+        display: none;
+    }
+
+    menu{
+        padding: 0;
+    }
+}

@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bearly Dashboard</title>
+
+    <!-- font styles -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap"
+        rel="stylesheet">
+
+    <!-- css styles -->
+    <link rel="stylesheet" href="dashboard_styles.css">
+
+    <!-- icon styles -->
+    <link rel="stylesheet"
+        href="https://maxst.icons8.com/vue-static/landings/line-awesome/line-awesome/1.3.0/css/line-awesome.min.css">
+
+    <!-- Bootstrap cdn -->
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+
+    <!--Google Charts API -->
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+
+</head>
+
+<body>
+
+    <div class="d-flex" id="wrapper">
+        <div class="sidebar d-flex flex-column">
+            <div class="sidebar-heading text-center py-3">
+                <div class="logo">
+                    <a href="home.html"><img src="images/logo.png" alt="Bearly Baked"></a>
+                </div>
+            </div>
+            <div class="list-group list-group-flush my-3">
+                <a href="home.html" class="list-group-item list-group-item-action second-text fw-bold">
+                    <i class="las la-home"></i> Home
+                </a>
+                <a href="products.html" class="list-group-item list-group-item-action second-text fw-bold">
+                    <i class="las la-birthday-cake"></i> Products
+                </a>
+                <a href="dashboard.html" class="list-group-item list-group-item-action second-text active">
+                    <i class="las la-chart-bar"></i> Dashboard
+                </a>
+            </div>
+        </div>
+
+        <div class="container first mt-4">
+
+            <div class="row one justify-content-center">
+                <div class="col-12 col-lg-2 col-md-4 col-sm-1 text-center right">
+                    <div class="header">Total Orders</div>
+                    <div class="text mt-2" id="totalOrders">--</div>
+                </div>
+                <div class="col-12 col-lg-2 col-md-4 text-center right">
+                    <div class="header">Mostly Ordered</div>
+                    <div class="text mt-2" id="mostlyOrdered">--</div>
+                </div>
+                <div class="col-12 col-lg-2 col-md-4 text-center right">
+                    <div class="header">Busiest In</div>
+                    <div class="text mt-2" id="busiestOn">--</div>
+                </div>
+                <div class="col-12 col-lg-2 col-md-4 text-center">
+                    <div class="header">Faster Queues In</div>
+                    <div class="text mt-2" id="fasterQueues">--</div>
+                </div>
+                <div class="col-12 col-lg-3 col-md-4 text-center">
+                    <img src="images/b3.png" class="image" alt="Image">
+                </div>
+            </div>
+
+            <div class="row d-flex">
+                <div class="col-12 col-lg-6">
+                    <div class="row two d-flex">
+                        <div class="col-12 col-lg-5 chart-container">
+                            <div class="header">Sales Over Weekends</div>
+                            <div id="weekend-sales-chart" style="width: 100%; height: 200px;"></div>
+                        </div>
+                        <div class="col-12 col-lg-5 chart-container cc2">
+                            <div class="header">Sales Over Weekdays</div>
+                            <div id="weekday-sales-chart" style="width: 100%; height: 200px;"></div>
+                        </div>
+                    </div>
+                    <div class="row mt-2 three">
+                        <div class="col-12 col-lg-11 pie-container d-flex align-items-center">
+                            <div id="mpiechart" class="piechart" style="width: 30%; height: 100px;"></div>
+                            <div id="apiechart" class="piechart" style="width: 30%; height: 100px;"></div>
+                            <div id="epiechart" class="piechart" style="width: 30%; height: 100px;"></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-lg-6 col-md-4 table-container" id="top8">
+
+                </div>
+            </div>
+        </div>
+        </div>
+
+
+            <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+            <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.2/dist/umd/popper.min.js"></script>
+            <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+</body>
+<script src="dashboard_script.js"></script>
+
+</html>

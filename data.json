@@ -1,0 +1,2959 @@
+{
+    "bakerySales": [
+        {
+            "TransactionNo": 1,
+            "Items": [
+                "Croissant",
+                "Coffee"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 2,
+            "Items": [
+                "Bagel",
+                "Orange Juice"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 3,
+            "Items": [
+                "Muffin",
+                "Tea"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 4,
+            "Items": [
+                "Sandwich",
+                "Soda"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 5,
+            "Items": [
+                "Bread",
+                "Milk"
+            ],
+            "Daypart": "Evening",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 6,
+            "Items": [
+                "Cake",
+                "Coffee"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 7,
+            "Items": [
+                "Donut",
+                "Tea"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 8,
+            "Items": [
+                "Pastry",
+                "Juice"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 9,
+            "Items": [
+                "Pie",
+                "Soda"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 10,
+            "Items": [
+                "Cookies",
+                "Milk"
+            ],
+            "Daypart": "Evening",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 11,
+            "Items": [
+                "Muffin",
+                "Coffee"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 12,
+            "Items": [
+                "Bagel",
+                "Tea"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 13,
+            "Items": [
+                "Croissant",
+                "Juice"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 14,
+            "Items": [
+                "Cake",
+                "Soda"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 15,
+            "Items": [
+                "Pastry",
+                "Milk"
+            ],
+            "Daypart": "Evening",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 16,
+            "Items": [
+                "Cookies",
+                "Coffee"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 17,
+            "Items": [
+                "Donut",
+                "Tea"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 18,
+            "Items": [
+                "Bread",
+                "Juice"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 19,
+            "Items": [
+                "Sandwich",
+                "Soda"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 20,
+            "Items": [
+                "Pie",
+                "Milk"
+            ],
+            "Daypart": "Evening",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 21,
+            "Items": [
+                "Muffin",
+                "Coffee"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 22,
+            "Items": [
+                "Bagel",
+                "Tea"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 23,
+            "Items": [
+                "Croissant",
+                "Juice"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 24,
+            "Items": [
+                "Cake",
+                "Soda"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 25,
+            "Items": [
+                "Pastry",
+                "Milk"
+            ],
+            "Daypart": "Evening",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 26,
+            "Items": [
+                "Cookies",
+                "Coffee"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 27,
+            "Items": [
+                "Donut",
+                "Tea"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 28,
+            "Items": [
+                "Bread",
+                "Juice"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 29,
+            "Items": [
+                "Sandwich",
+                "Soda"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 30,
+            "Items": [
+                "Pie",
+                "Milk"
+            ],
+            "Daypart": "Evening",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 31,
+            "Items": [
+                "Croissant",
+                "Coffee"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 32,
+            "Items": [
+                "Bagel",
+                "Orange Juice"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 33,
+            "Items": [
+                "Muffin",
+                "Tea"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 34,
+            "Items": [
+                "Sandwich",
+                "Soda"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 35,
+            "Items": [
+                "Bread",
+                "Milk"
+            ],
+            "Daypart": "Evening",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 36,
+            "Items": [
+                "Cake",
+                "Coffee"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 37,
+            "Items": [
+                "Donut",
+                "Tea"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 38,
+            "Items": [
+                "Pastry",
+                "Juice"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 39,
+            "Items": [
+                "Pie",
+                "Soda"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 40,
+            "Items": [
+                "Cookies",
+                "Milk"
+            ],
+            "Daypart": "Evening",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 41,
+            "Items": [
+                "Muffin",
+                "Coffee"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 42,
+            "Items": [
+                "Bagel",
+                "Tea"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 43,
+            "Items": [
+                "Croissant",
+                "Juice"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 44,
+            "Items": [
+                "Cake",
+                "Soda"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 45,
+            "Items": [
+                "Pastry",
+                "Milk"
+            ],
+            "Daypart": "Evening",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 46,
+            "Items": [
+                "Cookies",
+                "Coffee"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 47,
+            "Items": [
+                "Donut",
+                "Tea"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 48,
+            "Items": [
+                "Bread",
+                "Juice"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 49,
+            "Items": [
+                "Sandwich",
+                "Soda"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 50,
+            "Items": [
+                "Pie",
+                "Milk"
+            ],
+            "Daypart": "Evening",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 51,
+            "Items": [
+                "Croissant",
+                "Coffee"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 52,
+            "Items": [
+                "Bagel",
+                "Orange Juice"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 53,
+            "Items": [
+                "Muffin",
+                "Tea"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 54,
+            "Items": [
+                "Sandwich",
+                "Soda"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 55,
+            "Items": [
+                "Bread",
+                "Milk"
+            ],
+            "Daypart": "Evening",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 56,
+            "Items": [
+                "Cake",
+                "Coffee"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 57,
+            "Items": [
+                "Donut",
+                "Tea"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 58,
+            "Items": [
+                "Pastry",
+                "Juice"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 59,
+            "Items": [
+                "Pie",
+                "Soda"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 60,
+            "Items": [
+                "Cookies",
+                "Milk"
+            ],
+            "Daypart": "Evening",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 61,
+            "Items": [
+                "Croissant",
+                "Coffee"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 62,
+            "Items": [
+                "Bagel",
+                "Orange Juice"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 63,
+            "Items": [
+                "Muffin",
+                "Tea"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 64,
+            "Items": [
+                "Sandwich",
+                "Soda"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 65,
+            "Items": [
+                "Bread",
+                "Milk"
+            ],
+            "Daypart": "Evening",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 66,
+            "Items": [
+                "Cake",
+                "Coffee"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 67,
+            "Items": [
+                "Donut",
+                "Tea"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 68,
+            "Items": [
+                "Pastry",
+                "Juice"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 69,
+            "Items": [
+                "Pie",
+                "Soda"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 70,
+            "Items": [
+                "Cookies",
+                "Milk"
+            ],
+            "Daypart": "Evening",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 71,
+            "Items": [
+                "Muffin",
+                "Coffee"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 72,
+            "Items": [
+                "Bagel",
+                "Tea"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 73,
+            "Items": [
+                "Croissant",
+                "Juice"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 74,
+            "Items": [
+                "Cake",
+                "Soda"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 75,
+            "Items": [
+                "Pastry",
+                "Milk"
+            ],
+            "Daypart": "Evening",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 76,
+            "Items": [
+                "Cookies",
+                "Coffee"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 77,
+            "Items": [
+                "Donut",
+                "Tea"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 78,
+            "Items": [
+                "Bread",
+                "Juice"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 79,
+            "Items": [
+                "Sandwich",
+                "Soda"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 80,
+            "Items": [
+                "Pie",
+                "Milk"
+            ],
+            "Daypart": "Evening",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 81,
+            "Items": [
+                "Croissant",
+                "Coffee"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 82,
+            "Items": [
+                "Bagel",
+                "Orange Juice"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 83,
+            "Items": [
+                "Muffin",
+                "Tea"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 84,
+            "Items": [
+                "Sandwich",
+                "Soda"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 85,
+            "Items": [
+                "Bread",
+                "Milk"
+            ],
+            "Daypart": "Evening",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 86,
+            "Items": [
+                "Cake",
+                "Coffee"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 87,
+            "Items": [
+                "Donut",
+                "Tea"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 88,
+            "Items": [
+                "Pastry",
+                "Juice"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 89,
+            "Items": [
+                "Pie",
+                "Soda"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 90,
+            "Items": [
+                "Cookies",
+                "Milk"
+            ],
+            "Daypart": "Evening",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 91,
+            "Items": [
+                "Croissant",
+                "Coffee"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 92,
+            "Items": [
+                "Bagel",
+                "Orange Juice"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 93,
+            "Items": [
+                "Muffin",
+                "Tea"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 94,
+            "Items": [
+                "Sandwich",
+                "Soda"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 95,
+            "Items": [
+                "Bread",
+                "Milk"
+            ],
+            "Daypart": "Evening",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 96,
+            "Items": [
+                "Cake",
+                "Coffee"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 97,
+            "Items": [
+                "Donut",
+                "Tea"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 98,
+            "Items": [
+                "Pastry",
+                "Juice"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 99,
+            "Items": [
+                "Pie",
+                "Soda"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 100,
+            "Items": [
+                "Cookies",
+                "Milk"
+            ],
+            "Daypart": "Evening",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 101,
+            "Items": [
+                "Muffin",
+                "Coffee"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 102,
+            "Items": [
+                "Bagel",
+                "Tea"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 103,
+            "Items": [
+                "Croissant",
+                "Juice"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 104,
+            "Items": [
+                "Cake",
+                "Soda"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 105,
+            "Items": [
+                "Pastry",
+                "Milk"
+            ],
+            "Daypart": "Evening",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 106,
+            "Items": [
+                "Cookies",
+                "Coffee"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 107,
+            "Items": [
+                "Donut",
+                "Tea"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 108,
+            "Items": [
+                "Bread",
+                "Juice"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 109,
+            "Items": [
+                "Sandwich",
+                "Soda"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 110,
+            "Items": [
+                "Pie",
+                "Milk"
+            ],
+            "Daypart": "Evening",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 111,
+            "Items": [
+                "Croissant",
+                "Coffee"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 112,
+            "Items": [
+                "Bagel",
+                "Orange Juice"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 113,
+            "Items": [
+                "Muffin",
+                "Tea"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 114,
+            "Items": [
+                "Sandwich",
+                "Soda"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 115,
+            "Items": [
+                "Bread",
+                "Milk"
+            ],
+            "Daypart": "Evening",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 116,
+            "Items": [
+                "Cake",
+                "Coffee"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 117,
+            "Items": [
+                "Donut",
+                "Tea"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 118,
+            "Items": [
+                "Pastry",
+                "Juice"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 119,
+            "Items": [
+                "Pie",
+                "Soda"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 120,
+            "Items": [
+                "Cookies",
+                "Milk"
+            ],
+            "Daypart": "Evening",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 121,
+            "Items": [
+                "Muffin",
+                "Coffee"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 122,
+            "Items": [
+                "Bagel",
+                "Tea"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 123,
+            "Items": [
+                "Croissant",
+                "Juice"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 124,
+            "Items": [
+                "Cake",
+                "Soda"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 125,
+            "Items": [
+                "Pastry",
+                "Milk"
+            ],
+            "Daypart": "Evening",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 126,
+            "Items": [
+                "Cookies",
+                "Coffee"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 127,
+            "Items": [
+                "Donut",
+                "Tea"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 128,
+            "Items": [
+                "Bread",
+                "Juice"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 129,
+            "Items": [
+                "Sandwich",
+                "Soda"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 130,
+            "Items": [
+                "Pie",
+                "Milk"
+            ],
+            "Daypart": "Evening",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 131,
+            "Items": [
+                "Croissant",
+                "Coffee"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 132,
+            "Items": [
+                "Bagel",
+                "Orange Juice"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 133,
+            "Items": [
+                "Muffin",
+                "Tea"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 134,
+            "Items": [
+                "Sandwich",
+                "Soda"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 135,
+            "Items": [
+                "Bread",
+                "Milk"
+            ],
+            "Daypart": "Evening",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 136,
+            "Items": [
+                "Cake",
+                "Coffee"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 137,
+            "Items": [
+                "Donut",
+                "Tea"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 138,
+            "Items": [
+                "Pastry",
+                "Juice"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 139,
+            "Items": [
+                "Pie",
+                "Soda"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 140,
+            "Items": [
+                "Cookies",
+                "Milk"
+            ],
+            "Daypart": "Evening",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 141,
+            "Items": [
+                "Muffin",
+                "Coffee"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 142,
+            "Items": [
+                "Bagel",
+                "Tea"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 143,
+            "Items": [
+                "Croissant",
+                "Juice"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 144,
+            "Items": [
+                "Cake",
+                "Soda"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 145,
+            "Items": [
+                "Pastry",
+                "Milk"
+            ],
+            "Daypart": "Evening",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 146,
+            "Items": [
+                "Cookies",
+                "Coffee"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 147,
+            "Items": [
+                "Donut",
+                "Tea"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 148,
+            "Items": [
+                "Bread",
+                "Juice"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 149,
+            "Items": [
+                "Sandwich",
+                "Soda"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 150,
+            "Items": [
+                "Pie",
+                "Milk"
+            ],
+            "Daypart": "Evening",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 151,
+            "Items": [
+                "Croissant",
+                "Coffee"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 152,
+            "Items": [
+                "Bagel",
+                "Orange Juice"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 153,
+            "Items": [
+                "Muffin",
+                "Tea"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 154,
+            "Items": [
+                "Sandwich",
+                "Soda"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 155,
+            "Items": [
+                "Bread",
+                "Milk"
+            ],
+            "Daypart": "Evening",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 156,
+            "Items": [
+                "Cake",
+                "Coffee"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 157,
+            "Items": [
+                "Donut",
+                "Tea"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 158,
+            "Items": [
+                "Pastry",
+                "Juice"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 159,
+            "Items": [
+                "Pie",
+                "Soda"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 160,
+            "Items": [
+                "Cookies",
+                "Milk"
+            ],
+            "Daypart": "Evening",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 161,
+            "Items": [
+                "Muffin",
+                "Coffee"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 162,
+            "Items": [
+                "Bagel",
+                "Tea"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 163,
+            "Items": [
+                "Croissant",
+                "Juice"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 164,
+            "Items": [
+                "Cake",
+                "Soda"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 165,
+            "Items": [
+                "Pastry",
+                "Milk"
+            ],
+            "Daypart": "Evening",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 166,
+            "Items": [
+                "Cookies",
+                "Coffee"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 167,
+            "Items": [
+                "Donut",
+                "Tea"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 168,
+            "Items": [
+                "Bread",
+                "Juice"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 169,
+            "Items": [
+                "Sandwich",
+                "Soda"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 170,
+            "Items": [
+                "Pie",
+                "Milk"
+            ],
+            "Daypart": "Evening",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 171,
+            "Items": [
+                "Muffin",
+                "Coffee"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 172,
+            "Items": [
+                "Bagel",
+                "Tea"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 173,
+            "Items": [
+                "Croissant",
+                "Juice"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 174,
+            "Items": [
+                "Cake",
+                "Soda"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 175,
+            "Items": [
+                "Pastry",
+                "Milk"
+            ],
+            "Daypart": "Evening",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 176,
+            "Items": [
+                "Cookies",
+                "Coffee"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 177,
+            "Items": [
+                "Donut",
+                "Tea"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 178,
+            "Items": [
+                "Bread",
+                "Juice"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 179,
+            "Items": [
+                "Sandwich",
+                "Soda"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 180,
+            "Items": [
+                "Pie",
+                "Milk"
+            ],
+            "Daypart": "Evening",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 181,
+            "Items": [
+                "Croissant",
+                "Coffee"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 182,
+            "Items": [
+                "Bagel",
+                "Orange Juice"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 183,
+            "Items": [
+                "Muffin",
+                "Tea"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 184,
+            "Items": [
+                "Sandwich",
+                "Soda"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 185,
+            "Items": [
+                "Bread",
+                "Milk"
+            ],
+            "Daypart": "Evening",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 186,
+            "Items": [
+                "Cake",
+                "Coffee"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 187,
+            "Items": [
+                "Donut",
+                "Tea"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 188,
+            "Items": [
+                "Pastry",
+                "Juice"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 189,
+            "Items": [
+                "Pie",
+                "Soda"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 190,
+            "Items": [
+                "Cookies",
+                "Milk"
+            ],
+            "Daypart": "Evening",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 191,
+            "Items": [
+                "Croissant",
+                "Coffee"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 192,
+            "Items": [
+                "Bagel",
+                "Orange Juice"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 193,
+            "Items": [
+                "Muffin",
+                "Tea"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 194,
+            "Items": [
+                "Sandwich",
+                "Soda"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 195,
+            "Items": [
+                "Bread",
+                "Milk"
+            ],
+            "Daypart": "Evening",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 196,
+            "Items": [
+                "Cake",
+                "Coffee"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 197,
+            "Items": [
+                "Donut",
+                "Tea"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 198,
+            "Items": [
+                "Pastry",
+                "Juice"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 199,
+            "Items": [
+                "Pie",
+                "Soda"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 200,
+            "Items": [
+                "Cookies",
+                "Milk"
+            ],
+            "Daypart": "Evening",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 201,
+            "Items": [
+                "Bagel",
+                "Coffee"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 202,
+            "Items": [
+                "Croissant",
+                "Tea"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 203,
+            "Items": [
+                "Muffin",
+                "Juice"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 204,
+            "Items": [
+                "Cake",
+                "Soda"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 205,
+            "Items": [
+                "Sandwich",
+                "Milk"
+            ],
+            "Daypart": "Evening",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 206,
+            "Items": [
+                "Cookies",
+                "Coffee"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 207,
+            "Items": [
+                "Pastry",
+                "Tea"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 208,
+            "Items": [
+                "Donut",
+                "Juice"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 209,
+            "Items": [
+                "Bread",
+                "Soda"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 210,
+            "Items": [
+                "Pie",
+                "Milk"
+            ],
+            "Daypart": "Evening",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 211,
+            "Items": [
+                "Muffin",
+                "Coffee"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 212,
+            "Items": [
+                "Bagel",
+                "Tea"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 213,
+            "Items": [
+                "Croissant",
+                "Juice"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 214,
+            "Items": [
+                "Cake",
+                "Soda"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 215,
+            "Items": [
+                "Sandwich",
+                "Milk"
+            ],
+            "Daypart": "Evening",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 216,
+            "Items": [
+                "Cookies",
+                "Coffee"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 217,
+            "Items": [
+                "Pastry",
+                "Tea"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 218,
+            "Items": [
+                "Donut",
+                "Juice"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 219,
+            "Items": [
+                "Bread",
+                "Soda"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 220,
+            "Items": [
+                "Pie",
+                "Milk"
+            ],
+            "Daypart": "Evening",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 221,
+            "Items": [
+                "Muffin",
+                "Coffee"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 222,
+            "Items": [
+                "Bagel",
+                "Tea"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 223,
+            "Items": [
+                "Croissant",
+                "Juice"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 224,
+            "Items": [
+                "Cake",
+                "Soda"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 225,
+            "Items": [
+                "Sandwich",
+                "Milk"
+            ],
+            "Daypart": "Evening",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 226,
+            "Items": [
+                "Cookies",
+                "Coffee"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 227,
+            "Items": [
+                "Pastry",
+                "Tea"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 228,
+            "Items": [
+                "Donut",
+                "Juice"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 229,
+            "Items": [
+                "Bread",
+                "Soda"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 230,
+            "Items": [
+                "Pie",
+                "Milk"
+            ],
+            "Daypart": "Evening",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 231,
+            "Items": [
+                "Croissant",
+                "Coffee"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 232,
+            "Items": [
+                "Bagel",
+                "Orange Juice"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 233,
+            "Items": [
+                "Muffin",
+                "Tea"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 234,
+            "Items": [
+                "Sandwich",
+                "Soda"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 235,
+            "Items": [
+                "Bread",
+                "Milk"
+            ],
+            "Daypart": "Evening",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 236,
+            "Items": [
+                "Cake",
+                "Coffee"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 237,
+            "Items": [
+                "Donut",
+                "Tea"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 238,
+            "Items": [
+                "Pastry",
+                "Juice"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 239,
+            "Items": [
+                "Pie",
+                "Soda"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 240,
+            "Items": [
+                "Cookies",
+                "Milk"
+            ],
+            "Daypart": "Evening",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 241,
+            "Items": [
+                "Muffin",
+                "Coffee"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 242,
+            "Items": [
+                "Bagel",
+                "Tea"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 243,
+            "Items": [
+                "Croissant",
+                "Juice"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 244,
+            "Items": [
+                "Cake",
+                "Soda"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 245,
+            "Items": [
+                "Pastry",
+                "Milk"
+            ],
+            "Daypart": "Evening",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 246,
+            "Items": [
+                "Cookies",
+                "Coffee"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 247,
+            "Items": [
+                "Donut",
+                "Tea"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 248,
+            "Items": [
+                "Bread",
+                "Juice"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 249,
+            "Items": [
+                "Sandwich",
+                "Soda"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 250,
+            "Items": [
+                "Pie",
+                "Milk"
+            ],
+            "Daypart": "Evening",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 251,
+            "Items": [
+                "Croissant",
+                "Coffee"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 252,
+            "Items": [
+                "Bagel",
+                "Orange Juice"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 253,
+            "Items": [
+                "Muffin",
+                "Tea"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 254,
+            "Items": [
+                "Sandwich",
+                "Soda"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 255,
+            "Items": [
+                "Bread",
+                "Milk"
+            ],
+            "Daypart": "Evening",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 256,
+            "Items": [
+                "Cake",
+                "Coffee"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 257,
+            "Items": [
+                "Donut",
+                "Tea"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 258,
+            "Items": [
+                "Pastry",
+                "Juice"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 259,
+            "Items": [
+                "Pie",
+                "Soda"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 260,
+            "Items": [
+                "Bread"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 261,
+            "Items": [
+                "Bread"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 262,
+            "Items": [
+                "Bread"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 263,
+            "Items": [
+                "Bread"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 264,
+            "Items": [
+                "Bread"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 265,
+            "Items": [
+                "Bread"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 266,
+            "Items": [
+                "Bread"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 267,
+            "Items": [
+                "Bread"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 268,
+            "Items": [
+                "Bread"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 269,
+            "Items": [
+                "Bread"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 270,
+            "Items": [
+                "Bread"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 271,
+            "Items": [
+                "Bread"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 272,
+            "Items": [
+                "Bread"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 273,
+            "Items": [
+                "Bread"
+            ],
+            "Daypart": "Evening",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 274,
+            "Items": [
+                "Bread"
+            ],
+            "Daypart": "Evening",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 275,
+            "Items": [
+                "Bread"
+            ],
+            "Daypart": "Evening",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 276,
+            "Items": [
+                "Bread"
+            ],
+            "Daypart": "Evening",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 277,
+            "Items": [
+                "Bread"
+            ],
+            "Daypart": "Evening",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 278,
+            "Items": [
+                "Bread"
+            ],
+            "Daypart": "Evening",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 279,
+            "Items": [
+                "Bread"
+            ],
+            "Daypart": "Evening",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 280,
+            "Items": [
+                "Bread"
+            ],
+            "Daypart": "Evening",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 281,
+            "Items": [
+                "Bread"
+            ],
+            "Daypart": "Evening",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 282,
+            "Items": [
+                "Bread"
+            ],
+            "Daypart": "Evening",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 283,
+            "Items": [
+                "Bread"
+            ],
+            "Daypart": "Evening",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 284,
+            "Items": [
+                "Bread"
+            ],
+            "Daypart": "Evening",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 285,
+            "Items": [
+                "Bread"
+            ],
+            "Daypart": "Evening",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 286,
+            "Items": [
+                "Bread"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 287,
+            "Items": [
+                "Bread"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 288,
+            "Items": [
+                "Bread"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 289,
+            "Items": [
+                "Bread"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 290,
+            "Items": [
+                "Bread"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 291,
+            "Items": [
+                "Cake"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 292,
+            "Items": [
+                "Cake"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 293,
+            "Items": [
+                "Cake"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 294,
+            "Items": [
+                "Cake"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 295,
+            "Items": [
+                "Cake"
+            ],
+            "Daypart": "Evening",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 296,
+            "Items": [
+                "Cake"
+            ],
+            "Daypart": "Evening",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 297,
+            "Items": [
+                "Cake"
+            ],
+            "Daypart": "Evening",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 298,
+            "Items": [
+                "Cake"
+            ],
+            "Daypart": "Evening",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 299,
+            "Items": [
+                "Cake"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 300,
+            "Items": [
+                "Cake"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 301,
+            "Items": [
+                "Cake"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 302,
+            "Items": [
+                "Cake"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 303,
+            "Items": [
+                "Cake"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 304,
+            "Items": [
+                "Cake"
+            ],
+            "Daypart": "Evening",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 305,
+            "Items": [
+                "Cake"
+            ],
+            "Daypart": "Evening",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 306,
+            "Items": [
+                "Cake"
+            ],
+            "Daypart": "Evening",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 307,
+            "Items": [
+                "Cake"
+            ],
+            "Daypart": "Evening",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 308,
+            "Items": [
+                "Cake"
+            ],
+            "Daypart": "Evening",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 309,
+            "Items": [
+                "Cake"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 310,
+            "Items": [
+                "Cake"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 311,
+            "Items": [
+                "Cake"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 312,
+            "Items": [
+                "Cake"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 313,
+            "Items": [
+                "Cake"
+            ],
+            "Daypart": "Evening",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 314,
+            "Items": [
+                "Pastry"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 315,
+            "Items": [
+                "Pastry"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 316,
+            "Items": [
+                "Pastry"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 317,
+            "Items": [
+                "Pastry"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 318,
+            "Items": [
+                "Pastry"
+            ],
+            "Daypart": "Evening",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 319,
+            "Items": [
+                "Pastry"
+            ],
+            "Daypart": "Evening",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 320,
+            "Items": [
+                "Pastry"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 321,
+            "Items": [
+                "Pastry"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 322,
+            "Items": [
+                "Pastry"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 323,
+            "Items": [
+                "Pastry"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 324,
+            "Items": [
+                "Pastry"
+            ],
+            "Daypart": "Evening",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 325,
+            "Items": [
+                "Pastry"
+            ],
+            "Daypart": "Evening",
+            "DayType": "Weekday"
+        },
+        {
+            "TransactionNo": 326,
+            "Items": [
+                "Pastry"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 327,
+            "Items": [
+                "Pastry"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 328,
+            "Items": [
+                "Pastry"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 329,
+            "Items": [
+                "Pastry"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 330,
+            "Items": [
+                "Pastry"
+            ],
+            "Daypart": "Evening",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 331,
+            "Items": [
+                "Pastry"
+            ],
+            "Daypart": "Evening",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 332,
+            "Items": [
+                "Pastry"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 333,
+            "Items": [
+                "Pastry"
+            ],
+            "Daypart": "Morning",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 334,
+            "Items": [
+                "Pastry"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 335,
+            "Items": [
+                "Pastry"
+            ],
+            "Daypart": "Afternoon",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 336,
+            "Items": [
+                "Pastry"
+            ],
+            "Daypart": "Evening",
+            "DayType": "Weekend"
+        },
+        {
+            "TransactionNo": 337,
+            "Items": [
+                "Pastry"
+            ],
+            "Daypart": "Evening",
+            "DayType": "Weekend"
+        }
+    ]
+}
